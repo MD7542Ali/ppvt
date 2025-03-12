@@ -6,7 +6,7 @@ import subprocess
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
 
 # Initialize the bot with your bot's API token
-bot = telebot.TeleBot('7773320009:AAHZvvuA95UyqZTPTpnygbN_PLGWzCQvuGM')
+bot = telebot.TeleBot('7063499538:AAGIrgweIxMfm0BLIkIcyCsEsFkHspxwLJs')
 
 # Admin user IDs (replace with your own admin IDs as strings)
 admin_ids = ["930577300","7163028849"]
